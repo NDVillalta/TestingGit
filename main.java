@@ -1,5 +1,3 @@
-
-
 package es.javautodidacta;
 
 import java.util.*;
